@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "global": {"language": "zh-TW", "export": ["dwg", "pdf"]},
+  "styles": {
+    "ikea": {"notes": "visual first; arrows only if installation direction verified"},
+    "technical": {"notes": "BOM-linked annotations, engineering review required"},
+    "hybrid": {"notes": "prioritize clarity while preserving necessary technical annotations"}
+  },
+  "project": {},
+  "task": {},
+  "locked_keys": []
+}

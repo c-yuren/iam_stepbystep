@@ -1,0 +1,9 @@
+{
+  "model_path": "C:\\CAD\\SampleAssembly.iam",
+  "provenance": "DEMO ONLY — replace with actual inventor_get_assembly_bom or Inventor inspection",
+  "components": [
+    {"id": "Base:1", "name": "底座", "scope": "top_level", "source": "demo"},
+    {"id": "Bracket:1", "name": "支架", "scope": "top_level", "source": "demo"},
+    {"id": "Cover:1", "name": "上蓋", "scope": "top_level", "source": "demo"}
+  ]
+}
